@@ -4,7 +4,7 @@ Hello
 
 
 …or create a new repository on the command line
-echo "# Demo" >> README.md
+echo "# Demo" >> README.exe
 git init
 git add README.md
 git commit -m "first commit"
